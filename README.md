@@ -10,7 +10,7 @@ My main tech stack is React, Typescript, Tailwind, NextJS, and Prisma. My favori
 
 I'm currently building GiftListPal, a friendly gift list app to help friends and families coordinate gift giving for parties, holidays, or wherever else gifts are given.
 
-##### Fun Facts
+#### Fun Facts
 - I enjoy a little hand tool woodworking
 - I think I like chocolate more than most people
 - I'm a sucker for a good romantic comedy anime
