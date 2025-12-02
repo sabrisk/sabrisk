@@ -13,7 +13,7 @@ I'm currently building GiftListPal, a friendly gift list app to help friends and
 ##### Fun Facts
 - I enjoy a little hand tool woodworking
 - I think I like chocolate more than most people
-- I'm a sucker for a romantic comedy anime
+- I'm a sucker for a good romantic comedy anime
 - **Hobbies**: anime, gym, building things
 
 
