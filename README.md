@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Brock, a software engineer based in California.
+I'm Brock, a software engineer based in Georgia.
 
 I love building and shipping things that make life easier.
 
